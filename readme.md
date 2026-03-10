@@ -9,12 +9,16 @@ It is a fully browser-based code editor capable of interacting with your local f
 The application highlights the flexibility of `FsBrowserSide` by offering two distinct read/write modes depending on your browser and needs:
 
 ### 1. Live Local Editing (Recommended Mode)
+
+
+
+
 This mode allows for **direct reading and writing on your hard drive**. 
 It uses the *File System Access API* (`showDirectoryPicker`) to establish a direct link with the folder of your choice. The changes you make in the editor are instantly saved to your computer, just like a real local IDE.
 
 > **Live Local Editing Demonstration:**
 > 
-> *xx*
+> https://github.com/user-attachments/assets/98ecb3b9-0f26-4a22-93fc-32c5e1e82fb8
 
 ---
 
@@ -28,7 +32,7 @@ In this mode, the application will "download" the entire content of the selected
 
 > **Draft Mode (OPFS) Demonstration:**
 > 
-> *xx*
+> https://github.com/user-attachments/assets/4dfafc57-f91c-4a0c-a483-71d97c36b413
 
 ## Built With
 
