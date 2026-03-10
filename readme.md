@@ -1,10 +1,3 @@
-Here is the English version of the `README.md` for your **mini-vscode** project.
-
-Just copy and paste this into your file, and don't forget to replace the placeholder links with your actual videos or GIFs!
-
----
-
-```markdown
 # Mini-VSCode
 
 **Mini-VSCode** is a mini-project specifically designed to showcase the power and utility of the **[FsBrowserSide](https://github.com/WaRtr0/FsBrowserSide)** library. 
@@ -59,5 +52,3 @@ Whether it's fixing a bug, adding a new feature (like a terminal, a better file 
 ## License
 
 This project is licensed under the MIT License.
-
-```
