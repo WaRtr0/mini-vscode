@@ -11,7 +11,6 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
-      'fs-browser-side': path.resolve(__dirname, '../../src/index.ts'),
       '@': path.resolve(__dirname, './src'),
     },
   },
